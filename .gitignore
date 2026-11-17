@@ -9,3 +9,15 @@ build/
 .vscode/
 .idea/
 *.swp
+# Visual Studio
+.vs/
+x64/
+x86/
+Debug/
+Release/
+*.user
+*.pdb
+*.ilk
+*.ipch
+*.VC.db
+*.VC.opendb
