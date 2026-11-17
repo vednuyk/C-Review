@@ -21,3 +21,7 @@ Release/
 *.ipch
 *.VC.db
 *.VC.opendb
+# VS project files (only source code is uploaded)
+*.sln
+*.slnx
+*.vcxproj*
